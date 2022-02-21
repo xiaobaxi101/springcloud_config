@@ -1,2 +1,2 @@
-server
+server:
     port: the port is 8080
